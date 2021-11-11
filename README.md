@@ -10,3 +10,4 @@
 ### [白雪公主](/src/white.md) 四级炸鸡
 ### [三人成虎，众口烁金](/src/tiger.md) cvnnu
 
+[?](/src/fu.html)

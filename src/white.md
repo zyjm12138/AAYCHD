@@ -1,1 +1,1 @@
-![white](/src/white.png)
+![white](/aaychd/src/white.png)
